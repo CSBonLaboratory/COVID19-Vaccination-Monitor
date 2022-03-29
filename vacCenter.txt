@@ -1,0 +1,71 @@
+{
+    "_id" : 1,
+    "name" : "Bucuresti",
+    "coords" : [1,1],
+    "org" : {
+        "medics" : [],
+        "nurses" : [],
+        "clerks" : []
+    }
+}
+{
+    "_id" : 2,
+    "name" : "Bucuresti",
+    "coords" : [2,1],
+    "org" : {
+        "medics" : [],
+        "nurses" : [],
+        "clerks" : []
+    }
+}
+{
+    "_id" : 3,
+    "name" : "Barlad",
+    "coords" : [4,7],
+    "org" : {
+        "medics" : [],
+        "nurses" : [],
+        "clerks" : []
+    }
+}
+{
+    "_id" : 4,
+    "name" : "Valeni",
+    "coords" : [6,2],
+    "org" : {
+        "medics" : [],
+        "nurses" : [],
+        "clerks" : []
+    }
+}
+{
+    "_id" : 5,
+    "name" : "Fetesti",
+    "coords" : [6,4],
+    "org" : {
+        "medics" : [],
+        "nurses" : [],
+        "clerks" : []
+    }
+}
+{
+    "_id" : 6,
+    "name" : "Negru-Voda",
+    "coords" : [12,0],
+    "org" : {
+        "medics" : [],
+        "nurses" : [],
+        "clerks" : []
+    }
+}
+{
+    "_id" : 7,
+    "name" : "Baicoi",
+    "coords" : [11,1],
+    "org" : {
+        "medics" : [],
+        "nurses" : [],
+        "clerks" : []
+    }
+}
+

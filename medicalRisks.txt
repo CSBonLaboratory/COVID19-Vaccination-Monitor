@@ -1,0 +1,12 @@
+{
+    "condition": "Myocarditis",
+    "riskReduction" : 5
+}
+{
+    "condition": "Pneumonia",
+    "riskReduction" : 60
+}
+{
+    "condition": "Cancer",
+    "riskReduction" : 40
+}

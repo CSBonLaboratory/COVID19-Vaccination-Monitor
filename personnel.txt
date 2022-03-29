@@ -1,0 +1,266 @@
+{
+    "_id" : 1,
+    "name" : "Maria Ionescu",
+    "position" : "medic",
+    "shifts" : [
+        {
+            "startHour" : 1,
+            "stopHour" : 3,
+            "vacCenter" : 1
+        },
+        {
+            "startHour" : 4,
+            "stopHour" : 6,
+            "vacCenter" : 2
+        },
+        {
+            "startHour" : 8,
+            "stopHour" : 10,
+            "vacCenter" : 1
+        }
+    ]
+}
+{
+    "_id" : 2,
+    "name" : "Popa Ion",
+    "position" : "medic",
+    "shifts" : [
+        {
+            "startHour" : 2,
+            "stopHour" : 4,
+            "vacCenter" : 1
+        },
+        {
+            "startHour" : 4,
+            "stopHour" : 6,
+            "vacCenter" : 1
+        },
+        {
+            "startHour" : 8,
+            "stopHour" : 10,
+            "vacCenter" : 1
+        }
+    ]
+}
+{
+    "_id" : 3,
+    "name" : "Rodica Georgescu",
+    "position" : "nurse",
+    "shifts" : [
+        {
+            "startHour" : 1,
+            "stopHour" : 3,
+            "vacCenter" : 1
+        },
+        {
+             "startHour" : 3,
+            "stopHour" : 6,
+            "vacCenter" : 2
+        },
+        {
+             "startHour" : 9,
+            "stopHour" : 11,
+            "vacCenter" : 1
+        }
+    ]
+}
+{
+    "_id" : 4,
+    "name" : "Mugurel Dobrescu",
+    "position" : "clerk",
+    "shifts" : [
+        {
+            "startHour" : 0,
+            "stopHour" : 3,
+            "vacCenter" : 1
+        }
+    ]
+}
+{
+    "_id" : 5,
+    "name" : "Trudy Trudy",
+    "position" : "clerk",
+    "shifts" : [
+        {
+            "startHour" : 7,
+            "stopHour" : 11,
+            "vacCenter" : 2
+        }
+        
+    ]
+}
+{
+    "_id" : 6,
+    "name" : "Fredy Hill",
+    "position" : "clerk",
+    "shifts" : [
+        {
+            "startHour" : 11,
+            "stopHour" : 16,
+            "vacCenter" : 1
+        },
+        {
+             "startHour" : 2,
+            "stopHour" : 5,
+            "vacCenter" : 1
+        },
+        {
+             "startHour" : 3,
+            "stopHour" : 4,
+            "vacCenter" : 2
+        }
+    ]
+}
+{
+    "_id" : 7,
+    "name" : "George Constantin",
+    "position" : "nurse",
+    "shifts" : [
+        {
+            "startHour" : 0,
+            "stopHour" : 5,
+            "vacCenter" : 3
+        },
+        {
+             "startHour" : 7,
+            "stopHour" : 10,
+            "vacCenter" : 3
+        },
+        {
+             "startHour" : 11,
+            "stopHour" : 12,
+            "vacCenter" : 4
+        },
+        {
+            "startHour" : 14,
+            "stopHour" : 16,
+            "vacCenter" : 3
+        }
+    ]
+}
+{
+    "_id" : 8,
+    "name" : "Ionut Georgescu",
+    "position" : "nurse",
+    "shifts" : [
+        {
+            "startHour" : 5,
+            "stopHour" : 6,
+            "vacCenter" : 3
+        },
+        {
+            "startHour" : 7,
+            "stopHour" : 8,
+            "vacCenter" : 4
+        },
+        {
+            "startHour" : 8,
+            "stopHour" : 10,
+            "vacCenter" : 4
+        },
+        {
+            "startHour" : 10,
+            "stopHour" : 12,
+            "vacCenter" : 5
+        },
+        {
+            "startHour" : 13,
+            "stopHour" : 14,
+            "vacCenter" : 6
+        }
+    ]
+}
+{
+    "_id" : 9,
+    "name" : "Ionut Ionescu",
+    "position" : "medic",
+    "shifts" : [
+        {
+            "startHour" : 0,
+            "stopHour" : 4,
+            "vacCenter" : 6
+        },
+        {
+            "startHour" : 4,
+            "stopHour" : 6,
+            "vacCenter" : 5
+        },
+        {
+            "startHour" : 7,
+            "stopHour" : 9,
+            "vacCenter" : 7
+        }
+    ]
+}
+{
+    "_id" : 10,
+    "name" : "Maria Marinescu",
+    "position" : "clerk",
+    "shifts" : [
+        {
+            "startHour" : 0,
+            "stopHour" : 4,
+            "vacCenter" : 6
+        },
+        {
+            "startHour" : 4,
+            "stopHour" : 6,
+            "vacCenter" : 5
+        },
+        {
+            "startHour" : 7,
+            "stopHour" : 9,
+            "vacCenter" : 7
+        }
+    ]
+}
+{
+    "_id" : 11,
+    "name" : "Calin Calinescu",
+    "position" : "clerk",
+    "shifts" : [
+        {
+            "startHour" : 1,
+            "stopHour" : 3,
+            "vacCenter" : 7
+        },
+        {
+            "startHour" : 5,
+            "stopHour" : 6,
+            "vacCenter" : 7
+        },
+        {
+            "startHour" : 8,
+            "stopHour" : 9,
+            "vacCenter" : 4
+        },
+        {
+            "startHour" : 10,
+            "stopHour" : 12,
+            "vacCenter" : 3
+        }
+    ]
+}
+{
+    "_id" : 12,
+    "name" : "Ben Denison",
+    "position" : "clerk",
+    "shifts" : [
+        {
+            "startHour" : 7,
+            "stopHour" : 11,
+            "vacCenter" : 2
+        },
+        {
+            "startHour" : 0,
+            "stopHour" : 1,
+            "vacCenter" : 1
+        },
+        {
+            "startHour" : 7,
+            "stopHour" : 9,
+            "vacCenter" : 7
+        }
+    ]
+}
+

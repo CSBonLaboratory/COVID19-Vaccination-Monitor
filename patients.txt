@@ -1,0 +1,170 @@
+{
+    "_id" : 1,
+    "name" : "Gigel Fronescu",
+    "age" : 56,
+    "medicalHistory" : ["Pneumonia", "Cancer"],
+    "vaccines" : [
+        {
+            "type" : "Pfizer",
+            "time" : 4,
+            "vacCenter" : 1
+        },
+        {
+            "type" : "Pfizer",
+            "time" : 4,
+            "vacCenter" : 1
+        }
+    ]
+}
+{
+    "_id" : 2,
+    "name" : "Andrei Andreescu",
+    "age" : 14,
+    "medicalHistory" : [],
+    "vaccines" : [
+        {
+            "type" : "AstraZeneca",
+            "time" : 3,
+            "vacCenter" : 1
+        },
+        {
+            "type" : "AstraZeneca",
+            "time" : 4,
+            "vacCenter" : 1
+        }
+    ]
+}
+{
+    "_id" : 3,
+    "name" : "Corneliu Vadim Tudor",
+    "age" : 40,
+    "medicalHistory" : ["Myocarditis"],
+    "vaccines" : [
+        {
+            "type" : "Moderna",
+            "time" : 0,
+            "vacCenter" : 1
+        }
+    ]
+}
+{
+    "_id" : 4,
+    "name" : "Marian Bascula",
+    "age" : 20,
+    "medicalHistory" : ["Pneumonia", "Myocarditis"],
+    "vaccines" : [
+        {
+            "type" : "Pfizer",
+            "time" : 4,
+            "vacCenter" : 2
+        },
+        {
+            "type" : "Pfizer",
+            "time" : 6,
+            "vacCenter" : 2
+        }
+    ]
+}
+{
+    "_id" : 5,
+    "name" : "Atilla Hunul",
+    "age" : 44,
+    "medicalHistory" : ["Cancer"],
+    "vaccines" : [
+        {
+            "type" : "AstraZeneca",
+            "time" : 4,
+            "vacCenter" : 2
+        },
+        {
+            "type" : "Pfizer",
+            "time" : 5,
+            "vacCenter" : 2
+        }
+    ]
+}
+{
+    "_id" : 6,
+    "name" : "Eduard Cumpana",
+    "age" : 89,
+    "medicalHistory" : ["Pneumonia"],
+    "vaccines" : [
+        {
+            "type" : "Pfizer",
+            "time" : 8,
+            "vacCenter" : 3
+        }
+    ]
+}
+{
+    "_id" : 7,
+    "name" : "Andrei Ionescu",
+    "age" : 58,
+    "medicalHistory" : ["Pneumonia", "Cancer"],
+    "vaccines" : [
+        {
+            "type" : "Pfizer",
+            "time" : 8,
+            "vacCenter" : 3
+        },
+        {
+            "type" : "Pfizer",
+            "time" : 8,
+            "vacCenter" : 3
+        }
+    ]
+}
+{
+    "_id" : 8,
+    "name" : "Gigel Georgesculici",
+    "age" : 56,
+    "medicalHistory" : ["Pneumonia"],
+    "vaccines" : [
+        {
+            "type" : "Pfizer",
+            "time" : 8,
+            "vacCenter" : 3
+        },
+        {
+            "type" : "Pfizer",
+            "time" : 8,
+            "vacCenter" : 3
+        }
+    ]
+}
+{
+    "_id" : 9,
+    "name" : "Andrew Day",
+    "age" : 24,
+    "medicalHistory" : ["Myocarditis"],
+    "vaccines" : [
+        {
+            "type" : "Pfizer",
+            "time" : 0,
+            "vacCenter" : 1
+        },
+        {
+            "type" : "Pfizer",
+            "time" : 0,
+            "vacCenter" : 1
+        }
+    ]
+}
+{
+    "_id" : 10,
+    "name" : "Wilson Wilson",
+    "age" : 36,
+    "medicalHistory" : ["Pneumonia"],
+    "vaccines" : [
+        {
+            "type" : "Pfizer",
+            "time" : 14,
+            "vacCenter" : 1
+        },
+        {
+            "type" : "Pfizer",
+            "time" : 0,
+            "vacCenter" : 1
+        }
+    ]
+}
